@@ -1,0 +1,81 @@
+---
+version: 2
+plan:
+  project-key: ADGEXT
+  key: BETESTSPECS
+  name: browser extension - test
+variables:
+  dockerNode: adguard/node-ssh:18.13--0
+
+stages:
+  - Test:
+      manual: 'false'
+      final: 'false'
+      jobs:
+        - Test
+
+Test:
+  key: TEST
+  other:
+    clean-working-dir: true
+  docker:
+    image: ${bamboo.dockerNode}
+    volumes:
+      ${system.YARN_DIR}: "${bamboo.cacheYarn}"
+  tasks:
+    - checkout:
+        force-clean-build: 'true'
+    - script:
+        interpreter: SHELL
+        scripts:
+          - |-
+            set -x
+            set -e
+            ls -la
+
+            # don't use --ignore-optional flag, because esbuild requires optional deps 
+            yarn install --silent --ignore-engines --ignore-platform --ignore-scripts
+            yarn lint --max-warnings=0
+            yarn check-types
+            yarn test
+            yarn dev
+            rm -rf node_modules
+  artifacts:
+    - name: build.txt
+      location: build/dev
+      pattern: build.txt
+      required: true
+    - name: chrome.zip
+      location: build/dev
+      pattern: chrome.zip
+      required: true
+    - name: edge.zip
+      location: build/dev
+      pattern: edge.zip
+      required: true
+    - name: firefox-amo.zip
+      location: build/dev
+      pattern: firefox-amo.zip
+      required: true
+    - name: firefox-standalone.zip
+      location: build/dev
+      pattern: firefox-standalone.zip
+      required: true
+    - name: opera.zip
+      location: build/dev
+      pattern: opera.zip
+      required: true
+  requirements:
+    - adg-docker: 'true'
+
+branches:
+  create: for-pull-request
+  delete:
+    after-deleted-days: '1'
+    after-inactive-days: '5'
+  link-to-jira: 'true'
+
+notifications: []
+labels: []
+other:
+  concurrent-build-plugin: system-default
