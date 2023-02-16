@@ -797,7 +797,7 @@ li.active .toggler:before {
   color: #68bc86;
   background-color: rgba(102, 181, 116, .15);
 }
-.dropdown__item--adguard {
+.dropdown__item--AdGuard {
   background-image: url("../images/logo-shield.svg");
 }
 .dropdown__item--dropbox {

@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Расширение файла должно быть %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard для iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard для iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard для Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard для Android"
     },
     "options_filters_filter_version": {
         "message": "Версия:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Отключить уведомления"
     },
-    "popup_adguard_footer_title": {
-        "message": "AdGuard для мобильных устройств"
+    "popup_Web3Guard_footer_title": {
+        "message": "Web3Guard для мобильных устройств"
     },
     "options_popup_call_to_action": {
         "message": "Введите корректный URL фильтра или путь к локальному файлу в строку выше."
@@ -96,7 +96,7 @@
         "message": "Подписаться"
     },
     "name": {
-        "message": "AdGuard Антибаннер"
+        "message": "Web3Guard Антибаннер"
     },
     "description": {
         "message": "Непревзойденная защита от рекламы и всплывающих окон. Блокирует рекламу в VK (Вконтакте), Одноклассники, Facebook, на YouTube и других сайтах."
@@ -108,7 +108,7 @@
         "message": "Белый список"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard не фильтрует рекламу на сайтах, добавленных в белый список."
+        "message": "Web3Guard не фильтрует рекламу на сайтах, добавленных в белый список."
     },
     "options_allowlist_invert": {
         "message": "Инвертировать белый список"
@@ -315,7 +315,7 @@
         "message": "обновлены."
     },
     "options_popup_version_update_title_text": {
-        "message": "Расширение AdGuard было обновлено до версии %current_version%"
+        "message": "Расширение Web3Guard было обновлено до версии %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Эта версия содержит в основном исправления ошибок и незначительные улучшения."
@@ -327,7 +327,7 @@
         "message": "Что нового в этой версии?"
     },
     "options_popup_version_update_offer": {
-        "message": "Вы знали, что возможности AdGuard не ограничиваются только блокировкой в этом браузере?"
+        "message": "Вы знали, что возможности Web3Guard не ограничиваются только блокировкой в этом браузере?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ПОДРОБНЕЕ"
@@ -342,7 +342,7 @@
         "message": "Удалить все пользовательские правила для этой страницы"
     },
     "popup_open_settings": {
-        "message": "Настройки AdGuard"
+        "message": "Настройки Web3Guard"
     },
     "popup_block_site_ads_android": {
         "message": "Заблокировать рекламу на сайте"
@@ -372,19 +372,19 @@
         "message": "Сообщить о проблеме..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не работает на этом домене"
+        "message": "Web3Guard не работает на этом домене"
     },
     "context_disable_protection": {
-        "message": "Приостановить защиту AdGuard"
+        "message": "Приостановить защиту Web3Guard"
     },
     "context_enable_protection": {
-        "message": "Возобновить защиту AdGuard"
+        "message": "Возобновить защиту Web3Guard"
     },
     "context_site_protection_disabled": {
-        "message": "Защита AdGuard приостановлена"
+        "message": "Защита Web3Guard приостановлена"
     },
     "context_open_settings": {
-        "message": "Настроить AdGuard..."
+        "message": "Настроить Web3Guard..."
     },
     "context_open_log": {
         "message": "Журнал фильтрации..."
@@ -606,7 +606,7 @@
         "message": "Изменен"
     },
     "options_settings": {
-        "message": "Настройки AdGuard"
+        "message": "Настройки Web3Guard"
     },
     "options_general_settings": {
         "message": "Основные"
@@ -618,7 +618,7 @@
         "message": "Избавьтесь от <a>саморекламы сайтов и контекстной рекламы<\/a>, появляющейся в результатах поиска."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Показывать количество заблокированной рекламы на иконке расширения AdGuard"
+        "message": "Показывать количество заблокированной рекламы на иконке расширения Web3Guard"
     },
     "options_enable_autodetect_filter": {
         "message": "Автоматически подключать наиболее подходящие фильтры"
@@ -699,10 +699,10 @@
         "message": "Официальный сайт"
     },
     "options_discuss": {
-        "message": "Обсудить AdGuard"
+        "message": "Обсудить Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Вам нравится AdGuard?"
+        "message": "Вам нравится Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Оцените приложение!"
@@ -710,8 +710,8 @@
     "options_miscellaneous_settings": {
         "message": "Дополнительные настройки"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Показывать информацию о полной версии AdGuard"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Показывать информацию о полной версии Web3Guard"
     },
     "options_show_app_updated_notification": {
         "message": "Уведомлять об обновлениях расширения"
@@ -735,13 +735,13 @@
         "message": "Ошибка при сбросе настроек"
     },
     "options_collect_hit_stats_title": {
-        "message": "Помочь с разработкой фильтров AdGuard"
+        "message": "Помочь с разработкой фильтров Web3Guard"
     },
     "options_collect_hit_stats_desc": {
         "message": "Отправляйте <a>анонимную статистику использования рекламных фильтров<\/a>, это поможет нам улучшить и оптимизировать их."
     },
     "options_show_context_menu_title": {
-        "message": "Добавить AdGuard в контекстное меню браузера"
+        "message": "Добавить Web3Guard в контекстное меню браузера"
     },
     "options_use_optimized_filters": {
         "message": "Использовать оптимизированные фильтры"
@@ -846,7 +846,7 @@
         "message": "Переключение защиты"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "О программе"
@@ -873,7 +873,7 @@
         "message": "Удалить"
     },
     "options_nav_better_than_extension": {
-        "message": "Почему приложение AdGuard лучше расширения?"
+        "message": "Почему приложение Web3Guard лучше расширения?"
     },
     "options_nav_compare": {
         "message": "Сравнить"
@@ -882,7 +882,7 @@
         "message": "Поиск"
     },
     "options_about_title": {
-        "message": "Браузерное расширение AdGuard"
+        "message": "Браузерное расширение Web3Guard"
     },
     "group_description_adblocking": {
         "message": "Настроить блокировку рекламы, чтобы раз и навсегда избавиться от надоедливых баннеров, всплывающих окон, видеорекламы и прочих раздражителей."
@@ -900,7 +900,7 @@
         "message": "Защитите себя от вредоносных программ, фишинга и других онлайн-угроз."
     },
     "group_description_miscellaneous": {
-        "message": "Дополнительные настройки, чтобы сделать веб-сёрфинг ещё более удобным с помощью AdGuard."
+        "message": "Дополнительные настройки, чтобы сделать веб-сёрфинг ещё более удобным с помощью Web3Guard."
     },
     "group_description_custom": {
         "message": "Создавайте свои фильтры, чтобы ещё более детально настроить веб-фильтрацию под себя."
@@ -1023,13 +1023,13 @@
         "message": "Доступ заблокирован"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard заблокировал доступ к этой странице"
+        "message": "Web3Guard заблокировал доступ к этой странице"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Заблокировано AdGuard"
+        "message": "Заблокировано Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard предотвратил загрузку этой страницы в соответствии со следующим правилом фильтрации"
+        "message": "Web3Guard предотвратил загрузку этой страницы в соответствии со следующим правилом фильтрации"
     },
     "blocking_pages_btn_go_back": {
         "message": "Назад"

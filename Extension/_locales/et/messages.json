@@ -17,11 +17,11 @@
     "popup_header_update_filters": {
         "message": "Käivita filtrite uuendamine"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard for iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard Androidile"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard Androidile"
     },
     "options_filters_filter_version": {
         "message": "versioon:"
@@ -32,8 +32,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Lülita teavitused välja"
     },
-    "popup_adguard_footer_title": {
-        "message": "Paigalda AdGuard oma telefoni"
+    "popup_Web3Guard_footer_title": {
+        "message": "Paigalda Web3Guard oma telefoni"
     },
     "options_popup_call_to_action": {
         "message": "Lisa filtri URL või asukoht ülemisse kasti."
@@ -78,7 +78,7 @@
         "message": "Telli"
     },
     "name": {
-        "message": "AdGuardi reklaamiblokeerija"
+        "message": "Web3Guardi reklaamiblokeerija"
     },
     "description": {
         "message": "Konkurentsitult parim reklaamiblokeerija, mis blokeerib reklaame ja hüpikaknaid kõikjal, sh Facebookis, Youtubes ja teistel lehtedel."
@@ -258,7 +258,7 @@
         "message": "Mis selles versioonis uut on?"
     },
     "options_popup_version_update_offer": {
-        "message": "Kas teadsid, et AdGuardi võimalused ei piirdu ainult brauserilaiendusega?"
+        "message": "Kas teadsid, et Web3Guardi võimalused ei piirdu ainult brauserilaiendusega?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ROHKEM TEAVET"
@@ -273,7 +273,7 @@
         "message": "Eemalda kõik selle lehe kasutajareeglid"
     },
     "popup_open_settings": {
-        "message": "AdGuardi seaded"
+        "message": "Web3Guardi seaded"
     },
     "popup_block_site_ads_android": {
         "message": "Blokeeri veebilehel reklaami"
@@ -300,19 +300,19 @@
         "message": "Teavita probleemist..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ei saa sellel domeenil töötada"
+        "message": "Web3Guard ei saa sellel domeenil töötada"
     },
     "context_disable_protection": {
-        "message": "Peata AdGuardi kaitse"
+        "message": "Peata Web3Guardi kaitse"
     },
     "context_enable_protection": {
-        "message": "Lülita AdGuardi kaitse sisse"
+        "message": "Lülita Web3Guardi kaitse sisse"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardi kaitse on peatatud"
+        "message": "Web3Guardi kaitse on peatatud"
     },
     "context_open_settings": {
-        "message": "AdGuardi seaded..."
+        "message": "Web3Guardi seaded..."
     },
     "context_open_log": {
         "message": "Filtreerimise logi..."
@@ -408,7 +408,7 @@
         "message": "Töödeldud"
     },
     "options_settings": {
-        "message": "AdGuardi seaded"
+        "message": "Web3Guardi seaded"
     },
     "options_general_settings": {
         "message": "Üldine"
@@ -450,7 +450,7 @@
         "message": "Avalda arvamust"
     },
     "options_show_app_updated_notification": {
-        "message": "Teavita mind AdGuardi brauserilisa uuendustest"
+        "message": "Teavita mind Web3Guardi brauserilisa uuendustest"
     },
     "options_reset_stats_done": {
         "message": "Statistika on nullitud"
@@ -549,6 +549,6 @@
         "message": "Üldine"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     }
 }

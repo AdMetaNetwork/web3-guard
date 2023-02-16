@@ -25,6 +25,7 @@ export const Icon = ({
     title,
 }) => {
     const iconClassname = cn('icon', classname);
+
     return (
         <svg className={iconClassname}>
             {title && <title>{title}</title>}

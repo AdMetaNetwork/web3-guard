@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Plik musi mieć rozszerzenie %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard dla iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard dla iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard dla Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard dla Android"
     },
     "options_filters_filter_version": {
         "message": "wersja:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Wyłącz powiadomienia"
     },
-    "popup_adguard_footer_title": {
-        "message": "Pobierz AdGuard na urządzenie mobilne"
+    "popup_Web3Guard_footer_title": {
+        "message": "Pobierz Web3Guard na urządzenie mobilne"
     },
     "options_popup_call_to_action": {
         "message": "Wprowadź poprawny adres URL lub ścieżkę do pliku filtra w powyższym polu."
@@ -96,7 +96,7 @@
         "message": "Subskrybuj"
     },
     "name": {
-        "message": "Bloker reklam AdGuard"
+        "message": "Bloker reklam Web3Guard"
     },
     "description": {
         "message": "Niezrównane rozszerzenie blokujące reklamy i wyskakujące okienka. Blokuje reklamy na Facebooku, YouTube i wszystkich innych stronach internetowych."
@@ -108,7 +108,7 @@
         "message": "Lista dozwolonych"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard nie filtruje witryn z listy dozwolonych."
+        "message": "Web3Guard nie filtruje witryn z listy dozwolonych."
     },
     "options_allowlist_invert": {
         "message": "Odwróć listę dozwolonych"
@@ -315,7 +315,7 @@
         "message": "zostały zaktualizowane."
     },
     "options_popup_version_update_title_text": {
-        "message": "Rozszerzenie przeglądarki AdGuard zostało właśnie zaktualizowane do wersji %current_version%"
+        "message": "Rozszerzenie przeglądarki Web3Guard zostało właśnie zaktualizowane do wersji %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ta wersja zawiera głównie poprawki błędów i drobne poprawki."
@@ -327,7 +327,7 @@
         "message": "Kliknij tutaj, aby wyświetlić pełną listę zmian."
     },
     "options_popup_version_update_offer": {
-        "message": "Jeśli masz obsesję na punkcie prywatności tak jak my, wypróbuj produkty premium AdGuard dla systemów Windows, Mac, iOS lub Android, aby znaleźć jeszcze więcej funkcji."
+        "message": "Jeśli masz obsesję na punkcie prywatności tak jak my, wypróbuj produkty premium Web3Guard dla systemów Windows, Mac, iOS lub Android, aby znaleźć jeszcze więcej funkcji."
     },
     "options_popup_version_update_offer_button_text": {
         "message": "WYPRÓBUJ PREMIUM"
@@ -342,7 +342,7 @@
         "message": "Usuń wszystkie reguły użytkownika dla tej strony"
     },
     "popup_open_settings": {
-        "message": "Ustawienia AdGuard"
+        "message": "Ustawienia Web3Guard"
     },
     "popup_block_site_ads_android": {
         "message": "Zablokuj reklamy na stronie"
@@ -372,19 +372,19 @@
         "message": "Zgłoś problem..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nie działa w tej domenie"
+        "message": "Web3Guard nie działa w tej domenie"
     },
     "context_disable_protection": {
-        "message": "Wstrzymaj ochronę AdGuard"
+        "message": "Wstrzymaj ochronę Web3Guard"
     },
     "context_enable_protection": {
-        "message": "Wznów ochronę AdGuard"
+        "message": "Wznów ochronę Web3Guard"
     },
     "context_site_protection_disabled": {
-        "message": "Ochrona AdGuard jest wstrzymana"
+        "message": "Ochrona Web3Guard jest wstrzymana"
     },
     "context_open_settings": {
-        "message": "Ustawienia AdGuard..."
+        "message": "Ustawienia Web3Guard..."
     },
     "context_open_log": {
         "message": "Raport filtrowania..."
@@ -594,7 +594,7 @@
         "message": "Zmodyfikowane"
     },
     "options_settings": {
-        "message": "Ustawienia AdGuard"
+        "message": "Ustawienia Web3Guard"
     },
     "options_general_settings": {
         "message": "Ustawienia podstawowe"
@@ -606,7 +606,7 @@
         "message": "Pozbądź się <a>autopromocji witryn i reklam kontekstowych<\/a> wyświetlanych w wynikach wyszukiwania."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Pokazuj liczbę zablokowanych reklam na ikonie rozszerzenia AdGuard"
+        "message": "Pokazuj liczbę zablokowanych reklam na ikonie rozszerzenia Web3Guard"
     },
     "options_enable_autodetect_filter": {
         "message": "Automatycznie aktywuj najbardziej odpowiednie filtry"
@@ -681,16 +681,16 @@
         "message": "Ochrona przed phishingiem i malware"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Włącz moduł AdGuard Bezpieczne Przeglądanie, który wykrywa potencjalnie złośliwe i phishingowe witryny, sprawdzając je w internetowej bazie danych. <a>Czytaj więcej<\/a>"
+        "message": "Włącz moduł Web3Guard Bezpieczne Przeglądanie, który wykrywa potencjalnie złośliwe i phishingowe witryny, sprawdzając je w internetowej bazie danych. <a>Czytaj więcej<\/a>"
     },
     "options_site": {
         "message": "Oficjalna strona"
     },
     "options_discuss": {
-        "message": "Dyskusja AdGuard"
+        "message": "Dyskusja Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Lubisz AdGuard?"
+        "message": "Lubisz Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Oceń nas!"
@@ -698,8 +698,8 @@
     "options_miscellaneous_settings": {
         "message": "Dodatkowe ustawienia"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Pokaż informacje o pełnej wersji AdGuard"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Pokaż informacje o pełnej wersji Web3Guard"
     },
     "options_show_app_updated_notification": {
         "message": "Powiadamiaj o aktualizacjach rozszerzenia"
@@ -723,13 +723,13 @@
         "message": "Błąd podczas resetowania ustawień"
     },
     "options_collect_hit_stats_title": {
-        "message": "Pomoc w rozwoju filtrów AdGuard"
+        "message": "Pomoc w rozwoju filtrów Web3Guard"
     },
     "options_collect_hit_stats_desc": {
         "message": "Wysyłaj <a>anonimowe statystyki użycia filtrów reklam<\/a>, które pomogą nam je ulepszyć i zoptymalizować."
     },
     "options_show_context_menu_title": {
-        "message": "Dodaj element AdGuard do menu kontekstowego przeglądarki"
+        "message": "Dodaj element Web3Guard do menu kontekstowego przeglądarki"
     },
     "options_use_optimized_filters": {
         "message": "Użyj filtrów zoptymalizowanych"
@@ -825,7 +825,7 @@
         "message": "Przełącznik ochrony"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "O rozszerzeniu"
@@ -855,7 +855,7 @@
         "message": "Wyszukaj"
     },
     "options_about_title": {
-        "message": "Rozszerzenie przeglądarki AdGuard"
+        "message": "Rozszerzenie przeglądarki Web3Guard"
     },
     "group_description_adblocking": {
         "message": "Skonfiguruj blokowanie reklam, aby raz na zawsze rozprawić się z irytującymi banerami, wyskakującymi okienkami, reklamami wideo i tym podobnymi."
@@ -873,7 +873,7 @@
         "message": "Chroń się przed złośliwym oprogramowaniem, phishingiem i innymi zagrożeniami internetowymi."
     },
     "group_description_miscellaneous": {
-        "message": "Więcej ustawień, aby jeszcze lepiej skonfigurować przeglądanie stron internetowych z AdGuard."
+        "message": "Więcej ustawień, aby jeszcze lepiej skonfigurować przeglądanie stron internetowych z Web3Guard."
     },
     "group_description_custom": {
         "message": "Twórz własne filtry, aby dostosować filtrowanie stron internetowych do swoich preferencji."
@@ -996,13 +996,13 @@
         "message": "Odmowa dostępu"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard zablokował dostęp do tej strony"
+        "message": "Web3Guard zablokował dostęp do tej strony"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Zablokowana przez AdGuard"
+        "message": "Zablokowana przez Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard uniemożliwił załadowanie tej strony z powodu następującej reguły filtrowania"
+        "message": "Web3Guard uniemożliwił załadowanie tej strony z powodu następującej reguły filtrowania"
     },
     "blocking_pages_btn_go_back": {
         "message": "Wróć"

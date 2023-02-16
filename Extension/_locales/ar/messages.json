@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "يجب أن يكون امتداد الملف %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "iOS لنظام AdGuard"
+    "popup_Web3Guard_for_ios": {
+        "message": "iOS لنظام Web3Guard"
     },
-    "popup_adguard_for_android": {
-        "message": "Android  لنظام  AdGuard"
+    "popup_Web3Guard_for_android": {
+        "message": "Android  لنظام  Web3Guard"
     },
     "options_filters_filter_version": {
         "message": ":الإصدار"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "أوقف التنبيهات"
     },
-    "popup_adguard_footer_title": {
-        "message": "لهاتفك النقالAdGuardاحصل على"
+    "popup_Web3Guard_footer_title": {
+        "message": "لهاتفك النقالWeb3Guardاحصل على"
     },
     "options_popup_call_to_action": {
         "message": "أدخل عنوان صالحاً أو مسار ملف عامل تصفية في الحقل أعلاه"
@@ -96,7 +96,7 @@
         "message": "اشتراك"
     },
     "name": {
-        "message": "مانع الإعلانات AdGuard"
+        "message": "مانع الإعلانات Web3Guard"
     },
     "description": {
         "message": "ملحق حاجب للإعلانات لا مثيل له في التصدي للإعلانات والنوافذ المنبثقة. يقوم بحجب الإعلانات على الفيسبوك واليوتيوب وجميع المواقع الأخرى."
@@ -108,7 +108,7 @@
         "message": "قائمة السماح"
     },
     "options_allowlist_desc": {
-        "message": "لا يقوم AdGuard بفلترة مواقع الويب الموجودة بقائمة المسموحات."
+        "message": "لا يقوم Web3Guard بفلترة مواقع الويب الموجودة بقائمة المسموحات."
     },
     "options_allowlist_invert": {
         "message": "قائمة سماح معكوسة"
@@ -315,7 +315,7 @@
         "message": ".تم تحديثها"
     },
     "options_popup_version_update_title_text": {
-        "message": "تم تحديث إضافة AdGuard للمتصفح إلى الإصدار رقم %current_version%"
+        "message": "تم تحديث إضافة Web3Guard للمتصفح إلى الإصدار رقم %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": ".يحتوي هذا الإصدار معظم الإصلاحات والتحسينات الطفيفة"
@@ -327,7 +327,7 @@
         "message": "ما الجديد في هذا الإصدار؟"
     },
     "options_popup_version_update_offer": {
-        "message": "لا تقتصر على هذا المتصفح؟ AdGuard هل تعلم أن قدرات"
+        "message": "لا تقتصر على هذا المتصفح؟ Web3Guard هل تعلم أن قدرات"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "التعرف على المزيد"
@@ -342,7 +342,7 @@
         "message": "ازالة جميع القواعد المخصصة لهذه الصفحة"
     },
     "popup_open_settings": {
-        "message": "إعدادات AdGuard"
+        "message": "إعدادات Web3Guard"
     },
     "popup_block_site_ads_android": {
         "message": "حجب الإعلانات على هذا الموقع"
@@ -372,19 +372,19 @@
         "message": "التبليغ عن مشكلة..."
     },
     "context_site_filtering_disabled": {
-        "message": "على هذا النطاق AdGuard  لا يمكن تشغيل"
+        "message": "على هذا النطاق Web3Guard  لا يمكن تشغيل"
     },
     "context_disable_protection": {
-        "message": "إيقاف حماية AdGuard"
+        "message": "إيقاف حماية Web3Guard"
     },
     "context_enable_protection": {
-        "message": "AdGuardاستئناف حماية"
+        "message": "Web3Guardاستئناف حماية"
     },
     "context_site_protection_disabled": {
-        "message": "حماية AdGuard متوقفة"
+        "message": "حماية Web3Guard متوقفة"
     },
     "context_open_settings": {
-        "message": "AdGuard إعدادات ..."
+        "message": "Web3Guard إعدادات ..."
     },
     "context_open_log": {
         "message": "سجل الفلترة"
@@ -606,7 +606,7 @@
         "message": "تم التعديل"
     },
     "options_settings": {
-        "message": "إعدادات AdGuard"
+        "message": "إعدادات Web3Guard"
     },
     "options_general_settings": {
         "message": "الإعدادات العامة"
@@ -618,7 +618,7 @@
         "message": "تخلص من <a> إعلانات الترويج الذاتي والإعلانات المستندة إلى السياق لمواقع الويب <\/a> التي تظهر في نتائج البحث."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "حدد عدد الإعلانات المحظورة على أيقونة ملحق AdGuard"
+        "message": "حدد عدد الإعلانات المحظورة على أيقونة ملحق Web3Guard"
     },
     "options_enable_autodetect_filter": {
         "message": "تفعيل الفلاتر الأكثر ملائمة تلقائياً"
@@ -693,16 +693,16 @@
         "message": "الحماية من التصيد والبرامج الضارة"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "قم بتمكين وحدة AdGuard Browsing Security التي تكتشف المواقع الخبيثة ومواقع التصيد الاحتيالي المحتملة عن طريق التحقق منها مقابل قاعدة بيانات على الإنترنت. <a> اقرأ المزيد <\/a>"
+        "message": "قم بتمكين وحدة Web3Guard Browsing Security التي تكتشف المواقع الخبيثة ومواقع التصيد الاحتيالي المحتملة عن طريق التحقق منها مقابل قاعدة بيانات على الإنترنت. <a> اقرأ المزيد <\/a>"
     },
     "options_site": {
         "message": "الموقع الرسمي"
     },
     "options_discuss": {
-        "message": "AdGuard مناقشه"
+        "message": "Web3Guard مناقشه"
     },
     "options_do_you_like_question": {
-        "message": "هل يعجبك AdGuard؟"
+        "message": "هل يعجبك Web3Guard؟"
     },
     "options_footer_like_us_cta": {
         "message": "قيّمنا!"
@@ -710,8 +710,8 @@
     "options_miscellaneous_settings": {
         "message": "إعدادات إضافية"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "عرض المعلومات عن النسخة الكاملة من AdGuard"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "عرض المعلومات عن النسخة الكاملة من Web3Guard"
     },
     "options_show_app_updated_notification": {
         "message": "الاعلام عن تحديثات الملحق"
@@ -735,13 +735,13 @@
         "message": "خطأ أثناء إعادة ضبط الإعدادات"
     },
     "options_collect_hit_stats_title": {
-        "message": "المساعدة في تطوير فلاتر AdGuard"
+        "message": "المساعدة في تطوير فلاتر Web3Guard"
     },
     "options_collect_hit_stats_desc": {
         "message": "أرسل <a> إحصائيات مجهولة عن استخدام فلاتر الإعلانات <\/a> والتي ستساعدنا في تحسينها وتساعدهم ايضاً."
     },
     "options_show_context_menu_title": {
-        "message": "أضف عنصر AdGuard إلى قائمة سياق المتصفح"
+        "message": "أضف عنصر Web3Guard إلى قائمة سياق المتصفح"
     },
     "options_use_optimized_filters": {
         "message": "استخدام الفلاتر المحسنة"
@@ -837,7 +837,7 @@
         "message": "تبديل الحماية"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "حول"
@@ -864,7 +864,7 @@
         "message": "حذف"
     },
     "options_nav_better_than_extension": {
-        "message": "لماذا تطبيق AdGuard أفضل من الإضافة فقط ؟"
+        "message": "لماذا تطبيق Web3Guard أفضل من الإضافة فقط ؟"
     },
     "options_nav_compare": {
         "message": "قارن"
@@ -873,7 +873,7 @@
         "message": "بحث"
     },
     "options_about_title": {
-        "message": "ملحق متصفح AdGuard"
+        "message": "ملحق متصفح Web3Guard"
     },
     "group_description_adblocking": {
         "message": "قم بضبط حظر الإعلانات هنا للتعامل مع اللافتات المزعجة والنوافذ المنبثقة وإعلانات الفيديو وما شابه ، مرة واحدة وإلى الأبد."
@@ -891,7 +891,7 @@
         "message": "قم بحماية نفسك من البرامج الضارة والتصيد الاحتيالي والتهديدات الأخرى عبر الإنترنت."
     },
     "group_description_miscellaneous": {
-        "message": "المزيد من الإعدادات لضبط تصفح الويب الخاص بك باستخدام AdGuard بشكل أكبر."
+        "message": "المزيد من الإعدادات لضبط تصفح الويب الخاص بك باستخدام Web3Guard بشكل أكبر."
     },
     "group_description_custom": {
         "message": "قم بإنشاء عوامل التصفية الخاصة بك لضبط تصفية الويب حسب تفضيلاتك."
@@ -1014,13 +1014,13 @@
         "message": "تم رفض الوصول"
     },
     "blocking_pages_safe_header_title": {
-        "message": "الوصول إلى هذه الصفحة AdGuard لقد حظر"
+        "message": "الوصول إلى هذه الصفحة Web3Guard لقد حظر"
     },
     "blocking_pages_rule_header_title": {
-        "message": "تم حظره بواسطة AdGuard"
+        "message": "تم حظره بواسطة Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "لقد منع AdGuard هذه الصفحة من التحميل بسبب قاعدة الفلتر التالية"
+        "message": "لقد منع Web3Guard هذه الصفحة من التحميل بسبب قاعدة الفلتر التالية"
     },
     "blocking_pages_btn_go_back": {
         "message": "الرجوع للخلف"

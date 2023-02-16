@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Tiedostopäätteen on oltava %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard iOS:lle"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard iOS:lle"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard Androidille"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard Androidille"
     },
     "options_filters_filter_version": {
         "message": "versio:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Poista ilmoitukset"
     },
-    "popup_adguard_footer_title": {
-        "message": "AdGuard mobiililaitteellesi"
+    "popup_Web3Guard_footer_title": {
+        "message": "Web3Guard mobiililaitteellesi"
     },
     "options_popup_call_to_action": {
         "message": "Syötä ylläolevaan kenttään suodattimen URL-osoite tai tiedostosijainti."
@@ -96,7 +96,7 @@
         "message": "Tilaa"
     },
     "name": {
-        "message": "AdGuard Mainosesto"
+        "message": "Web3Guard Mainosesto"
     },
     "description": {
         "message": "Ylivertainen mainosestolaajennus mainontaa ja ponnahduksia vastaan. Estää mainoksia Facebookissa, YouTubessa ja muilla sivustoilla."
@@ -108,7 +108,7 @@
         "message": "Sallittujen lista"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard ei suodata sallittujen listalla olevia sivustoja."
+        "message": "Web3Guard ei suodata sallittujen listalla olevia sivustoja."
     },
     "options_allowlist_invert": {
         "message": "Käänteinen sallittujen lista"
@@ -315,7 +315,7 @@
         "message": "päivitettiin."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard-laajennus on päivitetty versioon %current_version%"
+        "message": "Web3Guard-laajennus on päivitetty versioon %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Tämä versio sisältää lähinnä virhekorjauksia ja pieniä parannuksia."
@@ -327,7 +327,7 @@
         "message": "Mitä muutoksia versiossa on?"
     },
     "options_popup_version_update_offer": {
-        "message": "Tiesitkö, ettei AdGuard ole vain tätä selainta varten?"
+        "message": "Tiesitkö, ettei Web3Guard ole vain tätä selainta varten?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "LUE LISÄÄ"
@@ -342,7 +342,7 @@
         "message": "Tyhjennä sivulle luodut käyttäjän säännöt"
     },
     "popup_open_settings": {
-        "message": "AdGuardin asetukset"
+        "message": "Web3Guardin asetukset"
     },
     "popup_block_site_ads_android": {
         "message": "Estä mainoksia tältä sivustolta"
@@ -372,19 +372,19 @@
         "message": "Ilmoita ongelmasta..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ei voi toimia tällä verkkotunnuksella"
+        "message": "Web3Guard ei voi toimia tällä verkkotunnuksella"
     },
     "context_disable_protection": {
-        "message": "Pysäytä AdGuardin suojaus"
+        "message": "Pysäytä Web3Guardin suojaus"
     },
     "context_enable_protection": {
-        "message": "Käynnistä AdGuardin suojaus"
+        "message": "Käynnistä Web3Guardin suojaus"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardin suojaus on pysäytetty"
+        "message": "Web3Guardin suojaus on pysäytetty"
     },
     "context_open_settings": {
-        "message": "AdGuardin asetukset..."
+        "message": "Web3Guardin asetukset..."
     },
     "context_open_log": {
         "message": "Suodatushistoria..."
@@ -606,7 +606,7 @@
         "message": "Muokatut"
     },
     "options_settings": {
-        "message": "AdGuardin asetukset"
+        "message": "Web3Guardin asetukset"
     },
     "options_general_settings": {
         "message": "Yleiset"
@@ -618,7 +618,7 @@
         "message": "Hankkiudu eroon <a>sivustojen omasta mainonnasta ja sisältöön perustuvista mainoksista<\/a>, joita näytetään hakutuloksissa."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Näytä estettyjen mainosten määrä AdGuard-laajennuksen kuvakkeessa"
+        "message": "Näytä estettyjen mainosten määrä Web3Guard-laajennuksen kuvakkeessa"
     },
     "options_enable_autodetect_filter": {
         "message": "Käytä sopivimpia suodattimia automaattisesti"
@@ -693,16 +693,16 @@
         "message": "Tietojenkalastelun ja haittaohjelmien suojaus"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Käytä AdGuardin Turvallisen selauksen moduulia, joka havaitsee mahdollisesti haitalliset ja tietojenkalastelusivustot vertaamalla niitä verkkotietokantaan. <a>Lue lisää<\/a>"
+        "message": "Käytä Web3Guardin Turvallisen selauksen moduulia, joka havaitsee mahdollisesti haitalliset ja tietojenkalastelusivustot vertaamalla niitä verkkotietokantaan. <a>Lue lisää<\/a>"
     },
     "options_site": {
         "message": "Virallinen sivusto"
     },
     "options_discuss": {
-        "message": "Keskustele AdGuardista"
+        "message": "Keskustele Web3Guardista"
     },
     "options_do_you_like_question": {
-        "message": "Pidätkö AdGuardista?"
+        "message": "Pidätkö Web3Guardista?"
     },
     "options_footer_like_us_cta": {
         "message": "Arvioi se!"
@@ -710,8 +710,8 @@
     "options_miscellaneous_settings": {
         "message": "Muut asetukset"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Näytä tietoja AdGuardin täysversiosta"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Näytä tietoja Web3Guardin täysversiosta"
     },
     "options_show_app_updated_notification": {
         "message": "Ilmoita laajennuksen päivityksistä"
@@ -735,13 +735,13 @@
         "message": "Virhe asetusten palautuksessa"
     },
     "options_collect_hit_stats_title": {
-        "message": "Auta AdGuardin suodatinten kehityksessä"
+        "message": "Auta Web3Guardin suodatinten kehityksessä"
     },
     "options_collect_hit_stats_desc": {
         "message": "Lähetä <a>mainossuodatinten käytöstä nimettömiä tilastoja<\/a>, jotka auttavat niiden kehityksessä ja optimoinnissa."
     },
     "options_show_context_menu_title": {
-        "message": "Lisää AdGuard selaimen valikkoon"
+        "message": "Lisää Web3Guard selaimen valikkoon"
     },
     "options_use_optimized_filters": {
         "message": "Käytä optimoituja suodattimia"
@@ -798,13 +798,13 @@
         "message": "Poista seurantaparametrit"
     },
     "options_strip_tracking_params_description": {
-        "message": "Poista seurantaparametrit verkkopyynnöistä AdGuardin URL-seurannanestosuodattimella."
+        "message": "Poista seurantaparametrit verkkopyynnöistä Web3Guardin URL-seurannanestosuodattimella."
     },
     "options_block_known_trackers_title": {
         "message": "Estä seurannat"
     },
     "options_block_known_trackers_description": {
-        "message": "Estä tunnetut anylysointityökalut AdGuardin seurannanestosuodattimella."
+        "message": "Estä tunnetut anylysointityökalut Web3Guardin seurannanestosuodattimella."
     },
     "options_third_party_title": {
         "message": "Kolmannen osapuolen evästeet tuohoutuvat itsestään"
@@ -846,7 +846,7 @@
         "message": "Suojauksen kytkin"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Tietoja"
@@ -873,7 +873,7 @@
         "message": "Poista"
     },
     "options_nav_better_than_extension": {
-        "message": "Mikä tekee AdGuard-sovelluksesta laajennusta paremman?"
+        "message": "Mikä tekee Web3Guard-sovelluksesta laajennusta paremman?"
     },
     "options_nav_compare": {
         "message": "Vertaile"
@@ -882,7 +882,7 @@
         "message": "Haku"
     },
     "options_about_title": {
-        "message": "AdGuard Selainlaajennus"
+        "message": "Web3Guard Selainlaajennus"
     },
     "group_description_adblocking": {
         "message": "Määritä mainosesto tehdäksesi lopullisesti selvää kaikenlaisista bannereista, ponnahduksista ja videomainoksista yms."
@@ -900,7 +900,7 @@
         "message": "Suojaudu haittaohjelmilta, tietojenkalastelulta ja muilta verkon uhkilta."
     },
     "group_description_miscellaneous": {
-        "message": "Lisää asetuksia verkkoselauksesi muokkaamiseksi AdGuardilla vielä enemmän."
+        "message": "Lisää asetuksia verkkoselauksesi muokkaamiseksi Web3Guardilla vielä enemmän."
     },
     "group_description_custom": {
         "message": "Luo omia suodattimia hienosäätääksesi suodatuksen haluamaksesi."
@@ -1023,13 +1023,13 @@
         "message": "Pääsy estetty"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard on estänyt pääsyn sivulle"
+        "message": "Web3Guard on estänyt pääsyn sivulle"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Estetty AdGuardilla"
+        "message": "Estetty Web3Guardilla"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard esti sivun latauksen seuraavalla suodatussäännöllä"
+        "message": "Web3Guard esti sivun latauksen seuraavalla suodatussäännöllä"
     },
     "blocking_pages_btn_go_back": {
         "message": "Palaa takaisin"

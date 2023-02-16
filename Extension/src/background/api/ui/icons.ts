@@ -65,13 +65,13 @@ export class IconsApi {
         try {
             if (disabled) {
                 icon = {
-                    '19': browser.runtime.getURL('assets/icons/gray-19.png'),
-                    '38': browser.runtime.getURL('assets/icons/gray-38.png'),
+                    '19': browser.runtime.getURL('assets/icons/16.png'),
+                    '38': browser.runtime.getURL('assets/icons/48.png'),
                 };
             } else {
                 icon = {
-                    '19': browser.runtime.getURL('assets/icons/green-19.png'),
-                    '38': browser.runtime.getURL('assets/icons/green-38.png'),
+                    '19': browser.runtime.getURL('assets/icons/16.png'),
+                    '38': browser.runtime.getURL('assets/icons/48.png'),
                 };
             }
 

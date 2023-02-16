@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Rozšírenie súboru musí byť %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard pre iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard pre iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard pre Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard pre Android"
     },
     "options_filters_filter_version": {
         "message": "verzia:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Vypnúť oznámenia"
     },
-    "popup_adguard_footer_title": {
-        "message": "Získajte AdGuard pre Váš mobil"
+    "popup_Web3Guard_footer_title": {
+        "message": "Získajte Web3Guard pre Váš mobil"
     },
     "options_popup_call_to_action": {
         "message": "Zadajte platnú URL adresu alebo umiestnenie súboru s filtrom do poľa vyššie."
@@ -96,7 +96,7 @@
         "message": "Odoberať"
     },
     "name": {
-        "message": "AdGuard blokovač reklamy"
+        "message": "Web3Guard blokovač reklamy"
     },
     "description": {
         "message": "Neprekonané rozšírenie proti reklamám a vyskakovacím oknám. Blokuje reklamy na Facebooku, YouTube a všetkých ostatných webových stránkach."
@@ -108,7 +108,7 @@
         "message": "Zoznam povolení"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard nefiltruje webové stránky zo zoznamu povolení."
+        "message": "Web3Guard nefiltruje webové stránky zo zoznamu povolení."
     },
     "options_allowlist_invert": {
         "message": "Invertovať zoznam povolení"
@@ -315,7 +315,7 @@
         "message": "boli aktualizované."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard rozšírenie prehliadača bolo aktualizované na verziu %current_version%"
+        "message": "Web3Guard rozšírenie prehliadača bolo aktualizované na verziu %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Táto verzia obsahuje prevažne opravy a drobné vylepšenia."
@@ -327,7 +327,7 @@
         "message": "Kliknutím sem zobrazíte úplný zoznam zmien."
     },
     "options_popup_version_update_offer": {
-        "message": "Ak ste posadnutý súkromím ako my, vyskúšajte produkty Premium AdGuard pre systémy Windows, Mac, iOS alebo Android a vyhľadajte ešte viac funkcií."
+        "message": "Ak ste posadnutý súkromím ako my, vyskúšajte produkty Premium Web3Guard pre systémy Windows, Mac, iOS alebo Android a vyhľadajte ešte viac funkcií."
     },
     "options_popup_version_update_offer_button_text": {
         "message": "VIAC INFORMÁCIÍ"
@@ -342,7 +342,7 @@
         "message": "Vymazať všetky používateľské pravidlá pre túto stránku"
     },
     "popup_open_settings": {
-        "message": "Nastavenia AdGuard"
+        "message": "Nastavenia Web3Guard"
     },
     "popup_block_site_ads_android": {
         "message": "Blokovať reklamu na stránke"
@@ -372,19 +372,19 @@
         "message": "Nahlásiť problém..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nemôže pracovať na tejto doméne"
+        "message": "Web3Guard nemôže pracovať na tejto doméne"
     },
     "context_disable_protection": {
-        "message": "Pozastaviť ochranu AdGuard"
+        "message": "Pozastaviť ochranu Web3Guard"
     },
     "context_enable_protection": {
-        "message": "Opätovne zapnúť ochranu AdGuard"
+        "message": "Opätovne zapnúť ochranu Web3Guard"
     },
     "context_site_protection_disabled": {
-        "message": "Ochrana AdGuard je pozastavená"
+        "message": "Ochrana Web3Guard je pozastavená"
     },
     "context_open_settings": {
-        "message": "Nastavenia AdGuard..."
+        "message": "Nastavenia Web3Guard..."
     },
     "context_open_log": {
         "message": "Denník filtrácie..."
@@ -603,7 +603,7 @@
         "message": "Modifikované"
     },
     "options_settings": {
-        "message": "Nastavenia AdGuard"
+        "message": "Nastavenia Web3Guard"
     },
     "options_general_settings": {
         "message": "Všeobecné"
@@ -615,7 +615,7 @@
         "message": "Zbavte sa <a>vlastnej propagácie a kontextových reklám<\/a>, ktoré sa objavujú vo výsledkoch vyhľadávania."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Zobrazovať počet zablokovaných reklám na ikone AdGuard rozšírenia"
+        "message": "Zobrazovať počet zablokovaných reklám na ikone Web3Guard rozšírenia"
     },
     "options_enable_autodetect_filter": {
         "message": "Zapnúť najvhodnejšie filtre automaticky"
@@ -690,16 +690,16 @@
         "message": "Ochrana proti podvodným a škodlivým stránkam"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Povoľte modul AdGuard Browsing Security, ktorý zisťuje potenciálne škodlivé a phishingové stránky ich porovnávaním s online databázou. <a>Prečítajte si viac<\/a>"
+        "message": "Povoľte modul Web3Guard Browsing Security, ktorý zisťuje potenciálne škodlivé a phishingové stránky ich porovnávaním s online databázou. <a>Prečítajte si viac<\/a>"
     },
     "options_site": {
         "message": "Oficiálna domovská stránka"
     },
     "options_discuss": {
-        "message": "Prediskutovať s AdGuard"
+        "message": "Prediskutovať s Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Páči sa Vám AdGuard?"
+        "message": "Páči sa Vám Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Ohodnoťte nás!"
@@ -707,8 +707,8 @@
     "options_miscellaneous_settings": {
         "message": "Ďalšie nastavenia"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Zobraziť informáciu o plnej verzii AdGuard"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Zobraziť informáciu o plnej verzii Web3Guard"
     },
     "options_show_app_updated_notification": {
         "message": "Upozorniť na na aktualizácie rozšírenia."
@@ -732,13 +732,13 @@
         "message": "Chyba pri obnove nastavení"
     },
     "options_collect_hit_stats_title": {
-        "message": "Pomôcť s vývojom AdGuard filtrov"
+        "message": "Pomôcť s vývojom Web3Guard filtrov"
     },
     "options_collect_hit_stats_desc": {
         "message": "Posielať <a>anonymné štatistiky používania reklamných filtrov<\/a>, ktoré nám ich pomôžu zlepšovať a optimalizovať."
     },
     "options_show_context_menu_title": {
-        "message": "Pridať položku AdGuard do kontextovej ponuky prehliadača"
+        "message": "Pridať položku Web3Guard do kontextovej ponuky prehliadača"
     },
     "options_use_optimized_filters": {
         "message": "Použiť optimalizované filtre"
@@ -834,7 +834,7 @@
         "message": "Vypnutie ochrany"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "O"
@@ -864,7 +864,7 @@
         "message": "Hľadať"
     },
     "options_about_title": {
-        "message": "AdGuard rozšírenie prehliadača"
+        "message": "Web3Guard rozšírenie prehliadača"
     },
     "group_description_adblocking": {
         "message": "Tu nakonfigurujte blokovanie reklám, aby ste raz a navždy riešili nepríjemné bannery, vyskakovacie okná, videoreklamy a podobne."
@@ -879,7 +879,7 @@
         "message": "Odstráňte kontextové okná a ďalšie nepríjemné upozornenia, ako sú oznámenia o súboroch cookie."
     },
     "group_description_miscellaneous": {
-        "message": "Ďalšie nastavenia na konfiguráciu Vášho surfovania na webe s AdGuardom ešte ďalej."
+        "message": "Ďalšie nastavenia na konfiguráciu Vášho surfovania na webe s Web3Guardom ešte ďalej."
     },
     "group_description_custom": {
         "message": "Vytvorte si vlastné filtre, ktoré doladia filtrovanie webu podľa Vašich preferencií."
@@ -1002,13 +1002,13 @@
         "message": "Prístup bol zamietnutý"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard zablokoval prístup k tejto stránke"
+        "message": "Web3Guard zablokoval prístup k tejto stránke"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blokované AdGuardom"
+        "message": "Blokované Web3Guardom"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard zabránil načítaniu tejto stránky kvôli nasledujúcemu filtračnému pravidlu"
+        "message": "Web3Guard zabránil načítaniu tejto stránky kvôli nasledujúcemu filtračnému pravidlu"
     },
     "blocking_pages_btn_go_back": {
         "message": "Naspäť"

@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Končnica datoteke mora biti %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard za iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard za iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard za Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard za Android"
     },
     "options_filters_filter_version": {
         "message": "različica:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Onemogočite obvestila"
     },
-    "popup_adguard_footer_title": {
-        "message": "Dobite AdGuard za vaš mobilnik"
+    "popup_Web3Guard_footer_title": {
+        "message": "Dobite Web3Guard za vaš mobilnik"
     },
     "options_popup_call_to_action": {
         "message": "V zgornje polje vnesite veljaven URL ali pot datoteke v filter."
@@ -96,7 +96,7 @@
         "message": "Naroči se"
     },
     "name": {
-        "message": "AdGuard Zaviralec oglasov"
+        "message": "Web3Guard Zaviralec oglasov"
     },
     "description": {
         "message": "Neujemajoča se razširitev za zaviranje oglasov proti oglaševanju in pojavnih oknih. Zavira oglase na Facebooku, YouTubeu in vseh drugih spletnih straneh."
@@ -108,7 +108,7 @@
         "message": "Seznam dovoljenih"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard ne filtrira spletnih strani s seznama dovoljenih."
+        "message": "Web3Guard ne filtrira spletnih strani s seznama dovoljenih."
     },
     "options_allowlist_invert": {
         "message": "Obrni seznam dovoljenih"
@@ -315,7 +315,7 @@
         "message": "so bili posodobljeni."
     },
     "options_popup_version_update_title_text": {
-        "message": "Razširitev AdGuard je bila posodobljena na različico %current_version%"
+        "message": "Razširitev Web3Guard je bila posodobljena na različico %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ta različica večinoma vsebuje popravke napak in manjše izboljšave."
@@ -327,7 +327,7 @@
         "message": "Kaj je novega v tej različici?"
     },
     "options_popup_version_update_offer": {
-        "message": "Ali ste vedeli, da zmogljivosti AdGuarda niso omejene na ta brskalnik?"
+        "message": "Ali ste vedeli, da zmogljivosti Web3Guarda niso omejene na ta brskalnik?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "VEČ O TEM"
@@ -342,7 +342,7 @@
         "message": "Izbriši vsa uporabniška pravila za to stran"
     },
     "popup_open_settings": {
-        "message": "Nastavitve AdGuarda"
+        "message": "Nastavitve Web3Guarda"
     },
     "popup_block_site_ads_android": {
         "message": "Onemogoči oglase na spletni strani"
@@ -372,19 +372,19 @@
         "message": "Prijavi težavo..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ne more delovati na tej domeni"
+        "message": "Web3Guard ne more delovati na tej domeni"
     },
     "context_disable_protection": {
-        "message": "Začasno zaustavi AdGuardovo zaščito"
+        "message": "Začasno zaustavi Web3Guardovo zaščito"
     },
     "context_enable_protection": {
-        "message": "Nadaljuj z AdGuardovo zaščito"
+        "message": "Nadaljuj z Web3Guardovo zaščito"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardova zaščita je začasno zaustavljena"
+        "message": "Web3Guardova zaščita je začasno zaustavljena"
     },
     "context_open_settings": {
-        "message": "Nastavitve AdGuarda..."
+        "message": "Nastavitve Web3Guarda..."
     },
     "context_open_log": {
         "message": "Dnevnik filtriranja..."
@@ -606,7 +606,7 @@
         "message": "Spremenjeno"
     },
     "options_settings": {
-        "message": "Nastavitve AdGuarda"
+        "message": "Nastavitve Web3Guarda"
     },
     "options_general_settings": {
         "message": "Splošno"
@@ -618,7 +618,7 @@
         "message": "Znebite se <a>samopromocij spletnih strani in na vsebini zasnovanih oglasov<\/a>, ki se prikazujejo v rezultatih iskanja."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Nakaži število onemogočenih oglasov na ikoni AdGuard razširitve"
+        "message": "Nakaži število onemogočenih oglasov na ikoni Web3Guard razširitve"
     },
     "options_enable_autodetect_filter": {
         "message": "Samodejno aktiviraj najprimernejše filtre"
@@ -693,16 +693,16 @@
         "message": "Varstvo pred lažnim predstavljanjem in škodljivimi programi"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Omogoči AdGuard varnostni modul za brskanje, ki zazna potencialno zlonamerne in lažne spletne strani, z njihovim preverjanjem v spletni zbirki podatkov. <a>Preberi več<\/a>"
+        "message": "Omogoči Web3Guard varnostni modul za brskanje, ki zazna potencialno zlonamerne in lažne spletne strani, z njihovim preverjanjem v spletni zbirki podatkov. <a>Preberi več<\/a>"
     },
     "options_site": {
         "message": "Uradna spletna stran"
     },
     "options_discuss": {
-        "message": "Pogovor z AdGuardom"
+        "message": "Pogovor z Web3Guardom"
     },
     "options_do_you_like_question": {
-        "message": "Ali vam je všeč AdGuard?"
+        "message": "Ali vam je všeč Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Ocenite ga!"
@@ -710,8 +710,8 @@
     "options_miscellaneous_settings": {
         "message": "Razno"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Prikaži podatke o polni različici AdGuarda"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Prikaži podatke o polni različici Web3Guarda"
     },
     "options_show_app_updated_notification": {
         "message": "Obvesti o posodobitvah razširitve"
@@ -735,13 +735,13 @@
         "message": "Napaka pri ponastavitvi nastavitev"
     },
     "options_collect_hit_stats_title": {
-        "message": "Pomagajte pri razvoju filtrov AdGuard"
+        "message": "Pomagajte pri razvoju filtrov Web3Guard"
     },
     "options_collect_hit_stats_desc": {
         "message": "Pošljite <a> anonimne statistične podatke o uporabi oglasnih filtrov<\/a>, ki nam jih bodo pomagali izboljšati in optimizirati."
     },
     "options_show_context_menu_title": {
-        "message": "Dodaj vnos AdGuarda vpriročni meni brskalnika"
+        "message": "Dodaj vnos Web3Guarda vpriročni meni brskalnika"
     },
     "options_use_optimized_filters": {
         "message": "Uporabi optimizirane filtre"
@@ -798,13 +798,13 @@
         "message": "Odstrani sledilne parametre"
     },
     "options_strip_tracking_params_description": {
-        "message": "Odstranite parametre iz spletnih zahtev s filtrom AdGuard Sledenje URL."
+        "message": "Odstranite parametre iz spletnih zahtev s filtrom Web3Guard Sledenje URL."
     },
     "options_block_known_trackers_title": {
         "message": "Onemogoči sledilce"
     },
     "options_block_known_trackers_description": {
-        "message": "Onemogočite sledilnike in orodja za spletno analitiko s filtrom AdGuard Zaščita pred sledenjem."
+        "message": "Onemogočite sledilnike in orodja za spletno analitiko s filtrom Web3Guard Zaščita pred sledenjem."
     },
     "options_third_party_title": {
         "message": "Samouničilni piškotki tretje strani"
@@ -846,7 +846,7 @@
         "message": "Zaščitno stikalo"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Vizitka"
@@ -873,7 +873,7 @@
         "message": "Odstrani"
     },
     "options_nav_better_than_extension": {
-        "message": "Zakaj je aplikacija AdGuard boljša od razširitve?"
+        "message": "Zakaj je aplikacija Web3Guard boljša od razširitve?"
     },
     "options_nav_compare": {
         "message": "Primerjaj"
@@ -882,7 +882,7 @@
         "message": "Poišči"
     },
     "options_about_title": {
-        "message": "AdGuard Razširitev brskalnika"
+        "message": "Web3Guard Razširitev brskalnika"
     },
     "group_description_adblocking": {
         "message": "Tukaj nastavite zaviranje oglasov, da se enkrat za vselej več ne ukvarjate z nadležnimi pasicami, pojavnimi okni, video oglasi in podobnim"
@@ -900,7 +900,7 @@
         "message": "Obvarujte se pred zlonamernimi programi, lažnim predstavljanjem in drugimi spletnimi grožnjami."
     },
     "group_description_miscellaneous": {
-        "message": "Več nastavitev za še večjo nastavitev vašega brskanja po spletu z AdGuardom."
+        "message": "Več nastavitev za še večjo nastavitev vašega brskanja po spletu z Web3Guardom."
     },
     "group_description_custom": {
         "message": "Ustvarite lastne filtre za fino nastavitev spletnega filtriranja po svojih željah."
@@ -1023,13 +1023,13 @@
         "message": "Dostop zavrnjen"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard je onemogočil dostop do te strani"
+        "message": "Web3Guard je onemogočil dostop do te strani"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Onemogočeno z AdGuardom"
+        "message": "Onemogočeno z Web3Guardom"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard je preprečil nalaganje te strani zaradi naslednjega pravila filtriranja"
+        "message": "Web3Guard je preprečil nalaganje te strani zaradi naslednjega pravila filtriranja"
     },
     "blocking_pages_btn_go_back": {
         "message": "Pojdi nazaj"

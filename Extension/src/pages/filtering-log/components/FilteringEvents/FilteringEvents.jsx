@@ -269,6 +269,9 @@ const FilteringEventsRows = observer(({
 }) => {
     const { events } = logStore;
 
+    // eslint-disable-next-line no-console
+    console.log('logStore----->>>>', logStore);
+
     return (
         /**
          * FixedSizeList does not support passing props to innerElementType component

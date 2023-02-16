@@ -26,13 +26,9 @@ import { Engine } from './engine';
 import {
     appContext,
     AppContextKey,
-    settingsStorage,
     storage,
 } from './storages';
 import {
-    toasts,
-    CommonFilterApi,
-    PagesApi,
     FiltersApi,
     SettingsApi,
     UpdateApi,
@@ -61,7 +57,6 @@ import {
     ForwardFrom,
 } from '../common/forward';
 
-import { SettingOption } from './schema';
 import { getRunInfo } from './utils';
 import { CLIENT_ID_KEY } from '../common/constants';
 import { contextMenuEvents, settingsEvents } from './events';
@@ -191,26 +186,26 @@ export class App {
         await DocumentBlockService.init();
 
         // Sets app uninstall url
-        await App.setUninstallUrl();
+        // await App.setUninstallUrl();
 
         // First install additional scenario
-        if (isInstall) {
-            // Adds engine status listener for filters-download page
-            messageHandler.addListener(MessageType.CheckRequestFilterReady, App.onCheckRequestFilterReady);
-
-            // Opens filters-download page
-            await PagesApi.openFiltersDownloadPage();
-
-            // Loads default filters
-            await CommonFilterApi.initDefaultFilters();
-        }
+        // if (isInstall) {
+        //     // Adds engine status listener for filters-download page
+        //     messageHandler.addListener(MessageType.CheckRequestFilterReady, App.onCheckRequestFilterReady);
+        //
+        //     // Opens filters-download page
+        //     await PagesApi.openFiltersDownloadPage();
+        //
+        //     // Loads default filters
+        //     await CommonFilterApi.initDefaultFilters();
+        // }
 
         // Update additional scenario
-        if (isUpdate) {
-            if (!settingsStorage.get(SettingOption.DisableShowAppUpdatedNotification)) {
-                toasts.showApplicationUpdatedPopup(currentAppVersion, previousAppVersion);
-            }
-        }
+        // if (isUpdate) {
+        //     if (!settingsStorage.get(SettingOption.DisableShowAppUpdatedNotification)) {
+        //         toasts.showApplicationUpdatedPopup(currentAppVersion, previousAppVersion);
+        //     }
+        // }
 
         // Runs tswebextension
         await Engine.start();

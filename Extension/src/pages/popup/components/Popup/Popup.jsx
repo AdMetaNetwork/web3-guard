@@ -19,15 +19,13 @@
 import React, { useContext, useEffect } from 'react';
 import { observer } from 'mobx-react';
 
-import { Tabs } from '../Tabs';
-import { Header } from '../Header';
-import { Footer } from '../Footer';
+import { Header } from '../Header2';
 import { Icons } from '../ui/Icons';
 import { MainContainer } from '../MainContainer';
-import { PromoNotification } from '../PromoNotification';
 import { popupStore } from '../../stores/PopupStore';
 import { messenger } from '../../../services/messenger';
 import { useAppearanceTheme } from '../../../common/hooks/useAppearanceTheme';
+import { Chat } from '../Chat';
 
 import '../../styles/main.pcss';
 import './popup.pcss';
@@ -76,10 +74,11 @@ export const Popup = observer(() => {
         <div className="popup">
             <Icons />
             <Header />
+            <Chat />
             <MainContainer />
-            <Tabs />
-            <Footer />
-            <PromoNotification />
+            {/* <Tabs /> */}
+            {/* <Footer /> */}
+            {/* <PromoNotification /> */}
         </div>
     );
 });
