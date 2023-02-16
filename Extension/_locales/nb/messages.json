@@ -20,11 +20,11 @@
     "popup_header_update_filters": {
         "message": "Se etter filteroppdateringer"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard for iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard for Android"
     },
     "options_filters_filter_version": {
         "message": "versjon:"
@@ -35,8 +35,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Skru av varsler"
     },
-    "popup_adguard_footer_title": {
-        "message": "Få AdGuard på din mobil"
+    "popup_Web3Guard_footer_title": {
+        "message": "Få Web3Guard på din mobil"
     },
     "options_popup_call_to_action": {
         "message": "Skriv inn en gyldig URL eller filbane til filteret i feltet ovenfor."
@@ -84,7 +84,7 @@
         "message": "Abonner"
     },
     "name": {
-        "message": "AdGuard-annonseblokkerer"
+        "message": "Web3Guard-annonseblokkerer"
     },
     "background_tab_title": {
         "message": "Bakgrunnsfane"
@@ -288,7 +288,7 @@
         "message": "Nettsidens sikkerhetsrapport"
     },
     "popup_open_settings": {
-        "message": "AdGuard-innstillinger"
+        "message": "Web3Guard-innstillinger"
     },
     "popup_block_site_ads_android": {
         "message": "Blokkerer annonser på en nettside"
@@ -315,19 +315,19 @@
         "message": "Meld inn et problem …"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard kan ikke kjøre på dette domenet"
+        "message": "Web3Guard kan ikke kjøre på dette domenet"
     },
     "context_disable_protection": {
-        "message": "Pause AdGuard-beskyttelse"
+        "message": "Pause Web3Guard-beskyttelse"
     },
     "context_enable_protection": {
-        "message": "Fortsett AdGuard-beskyttelse"
+        "message": "Fortsett Web3Guard-beskyttelse"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard-beskyttelse har blitt pauset"
+        "message": "Web3Guard-beskyttelse har blitt pauset"
     },
     "context_open_settings": {
-        "message": "AdGuard-innstillinger..."
+        "message": "Web3Guard-innstillinger..."
     },
     "context_open_log": {
         "message": "Filtreringslogg..."
@@ -486,7 +486,7 @@
         "message": "Endret"
     },
     "options_settings": {
-        "message": "AdGuard-innstillinger"
+        "message": "Web3Guard-innstillinger"
     },
     "options_general_settings": {
         "message": "Generelle innstillinger"
@@ -549,10 +549,10 @@
         "message": "Offisiell nettside"
     },
     "options_discuss": {
-        "message": "Diskuter AdGuard"
+        "message": "Diskuter Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Liker du AdGuard?"
+        "message": "Liker du Web3Guard?"
     },
     "options_show_app_updated_notification": {
         "message": "Bli varslet om utvidelsesoppdateringer"
@@ -627,7 +627,7 @@
         "message": "Beskyttelsesbryter"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Om"
@@ -651,13 +651,13 @@
         "message": "Fjern"
     },
     "options_nav_better_than_extension": {
-        "message": "Hvorfor er AdGuard-appen bedre enn utvidelsen?"
+        "message": "Hvorfor er Web3Guard-appen bedre enn utvidelsen?"
     },
     "options_filters_search": {
         "message": "Søk"
     },
     "options_about_title": {
-        "message": "AdGuard-nettleserutvidelse"
+        "message": "Web3Guard-nettleserutvidelse"
     },
     "fullscreen_user_rules_title": {
         "message": "Brukerfilter"
@@ -705,13 +705,13 @@
         "message": "Tilgang avslått"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard har blokkert tilgangen til denne siden"
+        "message": "Web3Guard har blokkert tilgangen til denne siden"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blokkert av AdGuard"
+        "message": "Blokkert av Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard har hindret denne siden fra å bli lastet inn, på grunn av denne filteroppføringen"
+        "message": "Web3Guard har hindret denne siden fra å bli lastet inn, på grunn av denne filteroppføringen"
     },
     "blocking_pages_btn_go_back": {
         "message": "Gå tilbake"

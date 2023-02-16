@@ -39,7 +39,7 @@
         "message": "URL:"
     },
     "name": {
-        "message": "AdGuard рекламен блокер"
+        "message": "Web3Guard рекламен блокер"
     },
     "options_userfilter": {
         "message": "Потребителски филтър"
@@ -102,7 +102,7 @@
         "message": "Премахване на всички потребителски правила за тази страница"
     },
     "popup_open_settings": {
-        "message": "AdGuard настройки"
+        "message": "Web3Guard настройки"
     },
     "popup_block_site_ads_android": {
         "message": "Блокирай рекламата на този сайт"
@@ -123,19 +123,19 @@
         "message": "Блокирай елемент..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не може да работи на този домейн"
+        "message": "Web3Guard не може да работи на този домейн"
     },
     "context_disable_protection": {
-        "message": "Пауза на защитата AdGuard"
+        "message": "Пауза на защитата Web3Guard"
     },
     "context_enable_protection": {
-        "message": "Пусни отново защитата AdGuard"
+        "message": "Пусни отново защитата Web3Guard"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard защитата е в пауза"
+        "message": "Web3Guard защитата е в пауза"
     },
     "context_open_settings": {
-        "message": "AdGuard настройки..."
+        "message": "Web3Guard настройки..."
     },
     "context_open_log": {
         "message": "Дневник на филтрирането..."
@@ -261,7 +261,7 @@
         "message": "Modified"
     },
     "options_settings": {
-        "message": "AdGuard настройки"
+        "message": "Web3Guard настройки"
     },
     "options_general_settings": {
         "message": "Общи настройки"
@@ -336,7 +336,7 @@
         "message": "Действия"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Относно"

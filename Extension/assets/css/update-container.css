@@ -3,7 +3,7 @@
  * should be injected into web page to set the popup position on page properly
  */
 
-.adguard-update-iframe {
+.AdGuard-update-iframe {
     position: fixed;
     top: 10px;
     right: 10px;

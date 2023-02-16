@@ -71,7 +71,7 @@ export const Header = observer(() => {
         <div className="popup-header">
             <div className="popup-header__logo">
                 <Icon
-                    id="#logo"
+                    id="#update-filters"
                     classname="icon--logo"
                 />
             </div>

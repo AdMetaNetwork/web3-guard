@@ -1,4 +1,4 @@
-### Wbe3 Safe
+### Web3 Guard
 
 <a id="dev-requirements"></a>
 ### Requirements

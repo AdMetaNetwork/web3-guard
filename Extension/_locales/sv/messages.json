@@ -23,11 +23,11 @@
     "popup_header_update_filters": {
         "message": "Kontrollera om det finns uppdateringar"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard för iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard för iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard för Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard för Android"
     },
     "options_filters_filter_version": {
         "message": "version:"
@@ -38,8 +38,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Avaktivera aviseringar"
     },
-    "popup_adguard_footer_title": {
-        "message": "Skaffa AdGuard till din mobil"
+    "popup_Web3Guard_footer_title": {
+        "message": "Skaffa Web3Guard till din mobil"
     },
     "options_popup_call_to_action": {
         "message": "Skriv in en giltig URL eller sökväg till filen i fältet ovan."
@@ -87,7 +87,7 @@
         "message": "Abonnera"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Web3Guard AdBlocker"
     },
     "description": {
         "message": "Oöverträffat tillägg för blockering av annonser och popups. Blockerar annonser på Facebook, YouTube och på alla andra webbplatser."
@@ -273,7 +273,7 @@
         "message": "Klicka här för att se hela Ändringsloggen."
     },
     "options_popup_version_update_offer": {
-        "message": "Om du är som vi, besatt av integritet, prova AdGuards premiumversioner för Windows, Mac, iOS eller Android för att hitta ännu fler funktioner."
+        "message": "Om du är som vi, besatt av integritet, prova Web3Guards premiumversioner för Windows, Mac, iOS eller Android för att hitta ännu fler funktioner."
     },
     "options_popup_version_update_offer_button_text": {
         "message": "LÄS MER"
@@ -282,7 +282,7 @@
         "message": "Blockera annonser på den här webbplatsen"
     },
     "popup_open_settings": {
-        "message": "AdGuardinställningar"
+        "message": "Web3Guardinställningar"
     },
     "popup_block_site_ads_android": {
         "message": "Blockerar annonser på en webbplats"
@@ -303,19 +303,19 @@
         "message": "Blockera annonselement"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard kan inte köras på den här domänen"
+        "message": "Web3Guard kan inte köras på den här domänen"
     },
     "context_disable_protection": {
-        "message": "Pausa AdGuardskyddet"
+        "message": "Pausa Web3Guardskyddet"
     },
     "context_enable_protection": {
-        "message": "Återuppta AdGuard-skydd"
+        "message": "Återuppta Web3Guard-skydd"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardskyddet är pausat"
+        "message": "Web3Guardskyddet är pausat"
     },
     "context_open_settings": {
-        "message": "AdGuards inställningar"
+        "message": "Web3Guards inställningar"
     },
     "context_open_log": {
         "message": "Filtreringslogg"
@@ -462,7 +462,7 @@
         "message": "Modified"
     },
     "options_settings": {
-        "message": "AdGuard Inställningar"
+        "message": "Web3Guard Inställningar"
     },
     "options_general_settings": {
         "message": "Allmänt"
@@ -522,10 +522,10 @@
         "message": "Officiell webbplats"
     },
     "options_discuss": {
-        "message": "Diskutera AdGuard"
+        "message": "Diskutera Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Gillar du AdGuard?"
+        "message": "Gillar du Web3Guard?"
     },
     "options_miscellaneous_settings": {
         "message": "Ytterligare inställningar"
@@ -612,7 +612,7 @@
         "message": "Skyddsomkopplare"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Om"
@@ -636,7 +636,7 @@
         "message": "Ta bort"
     },
     "options_nav_better_than_extension": {
-        "message": "Varför är AdGuard-appen bättre än tillägget?"
+        "message": "Varför är Web3Guard-appen bättre än tillägget?"
     },
     "options_filters_search": {
         "message": "Sök"
@@ -678,13 +678,13 @@
         "message": "Nekad åtkomst"
     },
     "blocking_pages_safe_header_title": {
-        "message": "Sidans åtkomst har blockerats av AdGuard"
+        "message": "Sidans åtkomst har blockerats av Web3Guard"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blockerad av AdGuard"
+        "message": "Blockerad av Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard har förhindrat inläsning av sidan till följd av följande filterregel:"
+        "message": "Web3Guard har förhindrat inläsning av sidan till följd av följande filterregel:"
     },
     "blocking_pages_btn_go_back": {
         "message": "Återgå"

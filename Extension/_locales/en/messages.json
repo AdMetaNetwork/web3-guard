@@ -26,11 +26,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "The file extension must be %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard for iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard for Android"
     },
     "options_filters_filter_version": {
         "message": "version:"
@@ -44,8 +44,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Disable notifications"
     },
-    "popup_adguard_footer_title": {
-        "message": "Get AdGuard for your mobile"
+    "popup_Web3Guard_footer_title": {
+        "message": "Get Web3Guard for your mobile"
     },
     "options_popup_call_to_action": {
         "message": "Enter the valid URL or file path of the filter into the field above."
@@ -96,10 +96,10 @@
         "message": "Subscribe"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Web3 AdBlocker"
     },
     "description": {
-        "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."
+        "message": "Escort you safely in the web3 world."
     },
     "background_tab_title": {
         "message": "Background tab"
@@ -108,7 +108,7 @@
         "message": "Allowlist"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard does not filter websites from the allowlist."
+        "message": "Web3Guard does not filter websites from the allowlist."
     },
     "options_allowlist_invert": {
         "message": "Invert allowlist"
@@ -201,7 +201,7 @@
         "message": "Saved"
     },
     "options_popup_import_error_required_privacy_permission": {
-        "message": "To import this settings file, allow AdGuard to change your privacy-related settings."
+        "message": "To import this settings file, allow Web3Guard to change your privacy-related settings."
     },
     "options_popup_import_success_title": {
         "message": "Settings imported successfully"
@@ -318,7 +318,7 @@
         "message": "were updated."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard extension has been updated to version %current_version%"
+        "message": "Web3Guard extension has been updated to version %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "This version contains mostly bugfixes and minor improvements."
@@ -330,7 +330,7 @@
         "message": "What's new in this version?"
     },
     "options_popup_version_update_offer": {
-        "message": "Did you know that AdGuard capabilities are not limited to this browser?"
+        "message": "Did you know that Web3Guard capabilities are not limited to this browser?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "LEARN MORE"
@@ -345,7 +345,7 @@
         "message": "Remove all user rules for this page"
     },
     "popup_open_settings": {
-        "message": "AdGuard settings"
+        "message": "Web3Guard settings"
     },
     "popup_block_site_ads_android": {
         "message": "Block ads on the website"
@@ -375,19 +375,19 @@
         "message": "Report an issue..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard cannot run on this domain"
+        "message": "Web3Guard cannot run on this domain"
     },
     "context_disable_protection": {
-        "message": "Pause AdGuard protection"
+        "message": "Pause Web3Guard protection"
     },
     "context_enable_protection": {
-        "message": "Resume AdGuard protection"
+        "message": "Resume Web3Guard protection"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard protection is paused"
+        "message": "Web3Guard protection is paused"
     },
     "context_open_settings": {
-        "message": "AdGuard settings..."
+        "message": "Web3Guard settings..."
     },
     "context_open_log": {
         "message": "Filtering log..."
@@ -609,7 +609,7 @@
         "message": "Modified"
     },
     "options_settings": {
-        "message": "AdGuard Settings"
+        "message": "Web3Guard Settings"
     },
     "options_general_settings": {
         "message": "General"
@@ -621,7 +621,7 @@
         "message": "Get rid of <a>websites' self-promotion and context-based ads<\/a> that appear in search results."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Indicate the number of blocked ads on the AdGuard extension icon"
+        "message": "Indicate the number of blocked ads on the Web3Guard extension icon"
     },
     "options_enable_autodetect_filter": {
         "message": "Activate the most appropriate filters automatically"
@@ -696,16 +696,16 @@
         "message": "Phishing and malware protection"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Enable AdGuard Browsing Security module that detects potentially malicious and phishing sites by checking them against an online database. <a>Read more<\/a>"
+        "message": "Enable Web3Guard Browsing Security module that detects potentially malicious and phishing sites by checking them against an online database. <a>Read more<\/a>"
     },
     "options_site": {
         "message": "Official Website"
     },
     "options_discuss": {
-        "message": "Discuss AdGuard"
+        "message": "Discuss Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Do you like AdGuard?"
+        "message": "Do you like Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Rate it!"
@@ -713,8 +713,8 @@
     "options_miscellaneous_settings": {
         "message": "Additional settings"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Show information on the AdGuard full version"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Show information on the Web3Guard full version"
     },
     "options_show_app_updated_notification": {
         "message": "Notify about extension updates"
@@ -738,13 +738,13 @@
         "message": "Error while resetting settings"
     },
     "options_collect_hit_stats_title": {
-        "message": "Help with the development of AdGuard filters"
+        "message": "Help with the development of Web3Guard filters"
     },
     "options_collect_hit_stats_desc": {
         "message": "Send <a>anonymous statistics of ad filters usage<\/a> that will help us improve and optimize them."
     },
     "options_show_context_menu_title": {
-        "message": "Add AdGuard item to the browser's context menu"
+        "message": "Add Web3Guard item to the browser's context menu"
     },
     "options_use_optimized_filters": {
         "message": "Use optimized filters"
@@ -801,13 +801,13 @@
         "message": "Remove tracking parameters"
     },
     "options_strip_tracking_params_description": {
-        "message": "Remove parameters from web requests with AdGuard URL Tracking filter."
+        "message": "Remove parameters from web requests with Web3Guard URL Tracking filter."
     },
     "options_block_known_trackers_title": {
         "message": "Block trackers"
     },
     "options_block_known_trackers_description": {
-        "message": "Block trackers and web analytics tools with AdGuard Tracking Protection filter."
+        "message": "Block trackers and web analytics tools with Web3Guard Tracking Protection filter."
     },
     "options_third_party_title": {
         "message": "Self-destruction of third-party cookies"
@@ -849,7 +849,7 @@
         "message": "Protection switch"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "About"
@@ -876,7 +876,7 @@
         "message": "Remove"
     },
     "options_nav_better_than_extension": {
-        "message": "Why is the AdGuard app better than the extension?"
+        "message": "Why is the Web3Guard app better than the extension?"
     },
     "options_nav_compare": {
         "message": "Compare"
@@ -885,7 +885,7 @@
         "message": "Search"
     },
     "options_about_title": {
-        "message": "AdGuard Browser extension"
+        "message": "Web3Guard Browser extension"
     },
     "group_description_adblocking": {
         "message": "Configure ad blocking here to deal with annoying banners, pop-ups, video ads and such, once and for all."
@@ -903,7 +903,7 @@
         "message": "Protect yourself from malware, phishing and other online threats."
     },
     "group_description_miscellaneous": {
-        "message": "More settings to configure your web surfing with AdGuard even further."
+        "message": "More settings to configure your web surfing with Web3Guard even further."
     },
     "group_description_custom": {
         "message": "Create your own filters to fine-tune web filtering to your preference."
@@ -1026,13 +1026,13 @@
         "message": "Access denied"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard has blocked access to this page"
+        "message": "Web3Guard has blocked access to this page"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blocked by AdGuard"
+        "message": "Blocked by Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard has prevented this page from loading due to the following filter rule"
+        "message": "Web3Guard has prevented this page from loading due to the following filter rule"
     },
     "blocking_pages_btn_go_back": {
         "message": "Go back"

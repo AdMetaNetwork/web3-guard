@@ -17,11 +17,11 @@
     "popup_header_update_filters": {
         "message": "अद्यतन के लिए जांचे"
     },
-    "popup_adguard_for_ios": {
-        "message": "IOS के लिए AdGuard"
+    "popup_Web3Guard_for_ios": {
+        "message": "IOS के लिए Web3Guard"
     },
-    "popup_adguard_for_android": {
-        "message": "Android के लिए AdGuard"
+    "popup_Web3Guard_for_android": {
+        "message": "Android के लिए Web3Guard"
     },
     "options_filters_filter_version": {
         "message": "संस्करण:"
@@ -32,7 +32,7 @@
     "options_popup_version_update_disable_notification": {
         "message": "नोटीफिकेशन निष्क्रिय किया गया"
     },
-    "popup_adguard_footer_title": {
+    "popup_Web3Guard_footer_title": {
         "message": "अपने मोबाइल के लिए एडवर्ड"
     },
     "options_popup_call_to_action": {
@@ -258,7 +258,7 @@
         "message": "इस संस्करण में नया क्या है?"
     },
     "options_popup_version_update_offer": {
-        "message": "क्या आप जानते हैं कि AdGuard क्षमताएं इस ब्राउज़र तक सीमित नहीं हैं?"
+        "message": "क्या आप जानते हैं कि Web3Guard क्षमताएं इस ब्राउज़र तक सीमित नहीं हैं?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "और अधिक जानें"
@@ -273,7 +273,7 @@
         "message": "इस पेज के लिए उपयोगकर्ता नियम रिसेट करें"
     },
     "popup_open_settings": {
-        "message": "AdGuard सेटिंग्स"
+        "message": "Web3Guard सेटिंग्स"
     },
     "popup_block_site_ads_android": {
         "message": "विज्ञापनों को किसी वेबसाइट पर ब्लॉक करें"
@@ -309,10 +309,10 @@
         "message": "एडगार्ड सुरक्षा रोकें"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard सुरक्षा रोक दी गई है"
+        "message": "Web3Guard सुरक्षा रोक दी गई है"
     },
     "context_open_settings": {
-        "message": "AdGuard सेटिंग्स..."
+        "message": "Web3Guard सेटिंग्स..."
     },
     "context_open_log": {
         "message": "लॉग फ़िल्टर किया जा रहा है"
@@ -405,7 +405,7 @@
         "message": "प्रसंस्कृत"
     },
     "options_settings": {
-        "message": "AdGuard सेटिंग्स"
+        "message": "Web3Guard सेटिंग्स"
     },
     "options_general_settings": {
         "message": "सामान्य"
@@ -546,6 +546,6 @@
         "message": "पुनः प्रयास करें"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     }
 }

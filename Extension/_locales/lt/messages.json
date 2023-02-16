@@ -23,11 +23,11 @@
     "options_popup_import_settings_wrong_file_ext": {
         "message": "Failo plėtinys turi būti %extension%"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard skirtas iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard skirtas iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard skirtas Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard skirtas Android"
     },
     "options_filters_filter_version": {
         "message": "versija:"
@@ -38,8 +38,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Išjungti pranešimus"
     },
-    "popup_adguard_footer_title": {
-        "message": "Gauti AdGuard mobiliesiems"
+    "popup_Web3Guard_footer_title": {
+        "message": "Gauti Web3Guard mobiliesiems"
     },
     "options_popup_call_to_action": {
         "message": "Įveskite į laukelį, esantį aukščiau, galiojantį filtro URL arba failo kelią."
@@ -84,7 +84,7 @@
         "message": "Užsiprenumeruoti"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Web3Guard AdBlocker"
     },
     "description": {
         "message": "Nepralenkiama apsauga nuo reklamų ir iškylančių langų. Blokuoja skelbimus Facebook, YouTube ir visose kitose svetainėse."
@@ -96,7 +96,7 @@
         "message": "Baltasis sąrašas"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard nefiltruoja svetaines iš baltojo sąrašo."
+        "message": "Web3Guard nefiltruoja svetaines iš baltojo sąrašo."
     },
     "options_allowlist_invert": {
         "message": "Invertuoti baltąjį sąrašą"
@@ -291,7 +291,7 @@
         "message": "buvo atnaujinti."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard plėtinys atnaujintas iki versijos %current_version%"
+        "message": "Web3Guard plėtinys atnaujintas iki versijos %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Šioje versijoje pagrinde yra klaidų ištaisymai bei nedideli patobulinimai."
@@ -303,7 +303,7 @@
         "message": "Kas naujo šioje versijoje?"
     },
     "options_popup_version_update_offer": {
-        "message": "Ar žinote, kad AdGuard galimybės neapsiriboja šia naršykle?"
+        "message": "Ar žinote, kad Web3Guard galimybės neapsiriboja šia naršykle?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Sužinoti daugiau"
@@ -315,7 +315,7 @@
         "message": "Patikrinti svetainės saugumą"
     },
     "popup_open_settings": {
-        "message": "AdGuard nustatymai"
+        "message": "Web3Guard nustatymai"
     },
     "popup_block_site_ads_android": {
         "message": "Blokuoti reklamą svetainėje"
@@ -345,19 +345,19 @@
         "message": "Pranešti apie problemą..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard neveikia su šiuo domenu"
+        "message": "Web3Guard neveikia su šiuo domenu"
     },
     "context_disable_protection": {
-        "message": "Pristabdyti AdGuard apsaugą"
+        "message": "Pristabdyti Web3Guard apsaugą"
     },
     "context_enable_protection": {
-        "message": "Atnaujinti AdGuard apsaugą"
+        "message": "Atnaujinti Web3Guard apsaugą"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard apsauga laikinai sustabdyta"
+        "message": "Web3Guard apsauga laikinai sustabdyta"
     },
     "context_open_settings": {
-        "message": "AdGuard nustatymai..."
+        "message": "Web3Guard nustatymai..."
     },
     "context_open_log": {
         "message": "Filtravimo logas..."
@@ -507,13 +507,13 @@
         "message": "Modifikuoti"
     },
     "options_settings": {
-        "message": "AdGuard nustatymai"
+        "message": "Web3Guard nustatymai"
     },
     "options_general_settings": {
         "message": "Pagrindiniai"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Rodyti blokuojamų reklamų skaičių ant AdGuard plėtinio piktogramos"
+        "message": "Rodyti blokuojamų reklamų skaičių ant Web3Guard plėtinio piktogramos"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktyvuoti tinkamiausius filtrus automatiškai"
@@ -567,16 +567,16 @@
         "message": "Oficiali svetainė"
     },
     "options_discuss": {
-        "message": "Aptarti AdGuard"
+        "message": "Aptarti Web3Guard"
     },
     "options_do_you_like_question": {
-        "message": "Ar jums patinka AdGuard?"
+        "message": "Ar jums patinka Web3Guard?"
     },
     "options_footer_like_us_cta": {
         "message": "Įvertinkite programėlę!"
     },
-    "options_show_adguard_full_version_title": {
-        "message": "Rodyti informaciją AdGuard pilnoje versijoje"
+    "options_show_Web3Guard_full_version_title": {
+        "message": "Rodyti informaciją Web3Guard pilnoje versijoje"
     },
     "options_show_app_updated_notification": {
         "message": "Pranešti apie plėtinių naujinius"
@@ -588,7 +588,7 @@
         "message": "Atstatyti nustatymus"
     },
     "options_show_context_menu_title": {
-        "message": "Pridėti AdGuard elementą į naršyklės kontekstinį meniu"
+        "message": "Pridėti Web3Guard elementą į naršyklės kontekstinį meniu"
     },
     "options_use_optimized_filters": {
         "message": "Naudoti optimizuotus filtrus"
@@ -651,7 +651,7 @@
         "message": "Apsaugos perjungimas"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "options_about": {
         "message": "Apie"
@@ -699,13 +699,13 @@
         "message": "Prieiga neleidžiama"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard užblokavo prieigą prie šio puslapio"
+        "message": "Web3Guard užblokavo prieigą prie šio puslapio"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Užblokavo AdGuard"
+        "message": "Užblokavo Web3Guard"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard neleido įkelti šio puslapio dėl šios filtravimo taisyklės"
+        "message": "Web3Guard neleido įkelti šio puslapio dėl šios filtravimo taisyklės"
     },
     "blocking_pages_btn_go_back": {
         "message": "Grįžti"

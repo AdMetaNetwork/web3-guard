@@ -71,7 +71,8 @@ export const sleep = (timeoutMs) => {
 };
 
 export const indexOfIgnoreCase = (str, searchString) => {
-    return str.toLowerCase().indexOf(searchString.toLowerCase());
+    return str.toLowerCase()
+        .indexOf(searchString.toLowerCase());
 };
 
 export const containsIgnoreCase = (str, searchString) => {
@@ -194,7 +195,8 @@ export const updateFilterDescription = (updatedFilters) => {
             description: translator.getMessage('options_popup_update_error'),
         };
     }
-    const filterNames = updatedFilters.map((filter) => filter.name).join(', ');
+    const filterNames = updatedFilters.map((filter) => filter.name)
+        .join(', ');
     let description;
     if (updatedFilters.length === 0) {
         description = `${filterNames} ${translator.getMessage('options_popup_update_not_found')}`;

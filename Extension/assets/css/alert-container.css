@@ -3,7 +3,7 @@
  * should be injected into web page to set the alert container position on page properly
  */
 
-.adguard-alert-iframe {
+.AdGuard-alert-iframe {
     width: 100%;
     border: none;
     position: fixed;

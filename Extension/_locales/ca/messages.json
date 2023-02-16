@@ -17,11 +17,11 @@
     "popup_header_update_filters": {
         "message": "Busqueu actualitzacions per als filtres"
     },
-    "popup_adguard_for_ios": {
-        "message": "AdGuard per a iOS"
+    "popup_Web3Guard_for_ios": {
+        "message": "Web3Guard per a iOS"
     },
-    "popup_adguard_for_android": {
-        "message": "AdGuard per a Android"
+    "popup_Web3Guard_for_android": {
+        "message": "Web3Guard per a Android"
     },
     "options_filters_filter_version": {
         "message": "versió:"
@@ -32,8 +32,8 @@
     "options_popup_version_update_disable_notification": {
         "message": "Desactiva les notificacions"
     },
-    "popup_adguard_footer_title": {
-        "message": "Obté AdGuard per al teu mòbil"
+    "popup_Web3Guard_footer_title": {
+        "message": "Obté Web3Guard per al teu mòbil"
     },
     "options_popup_call_to_action": {
         "message": "Introduïu l'URL vàlid o la ruta del fitxer del filtre al camp superior."
@@ -78,7 +78,7 @@
         "message": "Subscriure"
     },
     "name": {
-        "message": "Filtre de publicitat d'AdGuard"
+        "message": "Filtre de publicitat d'Web3Guard"
     },
     "background_tab_title": {
         "message": "Pestanya de fons"
@@ -87,7 +87,7 @@
         "message": "Llista de permesos"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard no filtra pàgines web que es troben a la llista blanca."
+        "message": "Web3Guard no filtra pàgines web que es troben a la llista blanca."
     },
     "options_allowlist_invert": {
         "message": "Inverteix la llista de permesos"
@@ -180,7 +180,7 @@
         "message": "Reinicia totes les regles personalitzades per aquesta pàgina"
     },
     "popup_open_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'Web3Guard"
     },
     "popup_block_site_ads_android": {
         "message": "Filtra els anuncis de publicitat en aquesta pàgina web"
@@ -204,19 +204,19 @@
         "message": "Comproveu la seguretat del lloc web..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard no pot funcionar en aquest domini"
+        "message": "Web3Guard no pot funcionar en aquest domini"
     },
     "context_disable_protection": {
-        "message": "Atureu la protecció d'AdGuard"
+        "message": "Atureu la protecció d'Web3Guard"
     },
     "context_enable_protection": {
-        "message": "Inicieu la protecció d'AdGuard"
+        "message": "Inicieu la protecció d'Web3Guard"
     },
     "context_site_protection_disabled": {
-        "message": "La protecció d'AdGuard està aturada"
+        "message": "La protecció d'Web3Guard està aturada"
     },
     "context_open_settings": {
-        "message": "Opcions d'AdGuard..."
+        "message": "Opcions d'Web3Guard..."
     },
     "context_open_log": {
         "message": "Registre del filtratge..."
@@ -309,7 +309,7 @@
         "message": "Copiat"
     },
     "options_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'Web3Guard"
     },
     "options_general_settings": {
         "message": "Opcions generals"
@@ -348,7 +348,7 @@
         "message": "Pàgina web oficial"
     },
     "options_discuss": {
-        "message": "Parleu sobre AdGuard"
+        "message": "Parleu sobre Web3Guard"
     },
     "options_reset_stats_done": {
         "message": "Les estadístiques s'han netejat"
@@ -384,7 +384,7 @@
         "message": "Intenta-ho de nou"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Web3Guard"
     },
     "description": {
         "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."
