@@ -9,7 +9,7 @@ Compiler/.project
 .vscode/
 Compiler/certificate.pem
 *.iml
-tags
+tests
 extensions
 yarn-error.log
 node_modules
